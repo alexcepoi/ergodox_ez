@@ -1,0 +1,4 @@
+#pragma once
+
+#undef LED_BRIGHTNESS_DEFAULT
+#define LED_BRIGHTNESS_DEFAULT 0
